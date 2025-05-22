@@ -1,0 +1,82 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files (optional — keep if using in app)
+# *.joblib
+# *.pkl
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Log files
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Python environment files
+pip-selfcheck.json
+
+# Deployment artifacts
+*.tar.gz
+*.egg-info/
+dist/
+build/
+
+# SQLite databases (optional)
+*.sqlite3
+
+# Kaggle API credentials and environment
+.kaggle/
+kaggle.json
+
+# Editor local history
+.history/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Coverage reports
+.coverage
+coverage.xml
+htmlcov/
+
+# Pytest
+.cache/
+
+# JupyterLab workspace
+.lab/
+
+# Misc
+*.swp
+*.bak
+*.tmp
