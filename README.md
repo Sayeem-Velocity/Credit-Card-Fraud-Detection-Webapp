@@ -117,8 +117,8 @@ credit-card-fraud-detection-webapp/
 │   └── Credit Card Fraud Detection.mp4           
 
 ```
-🚀 Key Highlights – Credit Card Fraud Detection
-💡 Powered by a hypertuned Random Forest classifier, this project successfully detects fraudulent transactions in a highly imbalanced real-world dataset. Here's a quick snapshot of the system's performance:
+**Key Highlights – Credit Card Fraud Detection**
+Powered by a **hypertuned Random Forest classifier**, this project successfully detects fraudulent transactions in a highly imbalanced real-world dataset. Here's a quick snapshot of the system's performance:
 
 📊 Summary
 Total Transactions Processed: 284,807
@@ -128,27 +128,28 @@ Fraudulent Transactions Detected: 489
 Fraud Rate in Dataset: 0.172% (extremely rare)
 
 🤖 Model Performance
-Model Type: Random Forest Classifier
+Model Type: **Random Forest Classifier**
 
 Tuning Strategy: Extensive hyperparameter optimization for maximum precision and recall
 
-Features Used: V1 – V28 (PCA-transformed features) + Amount
+Features Used: V1 – V28 (PCA-transformed) + Amount
 
-Thresholding: Custom decision threshold at 0.5 for classification
+Thresholding: 0.5 classification probability threshold
 
 Deployment: Streamlit Web App with real-time CSV upload and prediction interface
 
 🔍 Detection Insights
-✅ All 489 known fraud cases were detected during testing
+✅ All 489 known fraud cases were successfully detected
 
-📈 Average fraud probability scores are highlighted per transaction
+📈 Average fraud probability displayed per transaction
 
-⚠️ False positives minimized while maintaining high fraud sensitivity
+⚠️ Minimized false positives while maintaining high fraud sensitivity
 
-🧠 Fully automated pipeline — just upload your dataset and get insights instantly!
+🧠 Fully automated pipeline – simply upload your dataset and get real-time results!
 
 🎥 Demonstration
-Check out the included demo video Credit Card Fraud Detection.mp4 for a step-by-step walkthrough of how the system works in action.
+Check out the included demo video — Credit Card Fraud Detection.mp4 — for a step-by-step walkthrough of how the system works.
+
 ---
 
 ## 🧑‍💻 Author
