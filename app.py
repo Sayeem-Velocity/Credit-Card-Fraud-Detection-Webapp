@@ -9,7 +9,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
 )
 
-# Inject custom CSS for a white, professional theme
+# Inject custom CSS for a white, professional theme black good theme
 st.markdown("""
     <style>
     /* Hide Streamlit footer & menu */
