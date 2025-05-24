@@ -3,7 +3,7 @@
 A sleek and interactive web app built with **Streamlit** that allows users to upload credit card transaction data and detect fraudulent activities using a pre-trained machine learning model. The model evaluates 29 numerical features (`V1` to `V28` and `Amount`) to classify each transaction as **Fraudulent** or **Normal**.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9+-blue.svg" />
+  <img src="https://img.shields.io/badge/Python-3.11-blue.svg" />
   <img src="https://img.shields.io/badge/Streamlit-%E2%9D%A4-red.svg" />
   <img src="https://img.shields.io/badge/Model-Joblib-green.svg" />
 </p>
