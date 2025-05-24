@@ -45,7 +45,7 @@ The model is saved as `best_model.joblib` and is trained on preprocessed feature
 
 ### 🔧 Prerequisites
 
-* Python 3.9+
+* Python 3.11
 * pip
 
 ### 📦 Clone and Set Up
